@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\APIDesafioBlip.exe
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\APIDesafioBlip.dll
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\APIDesafioBlip.deps.json
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\APIDesafioBlip.runtimeconfig.json
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\APIDesafioBlip.pdb
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas\Desktop\APIDesafioBlip\APIDesafioBlip\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
